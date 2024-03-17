@@ -1,7 +1,7 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
+import { Link } from 'react-router-dom'
 import AdminSidebar from '../../components/AdminSidebar'
 import { OrderItemType, OrderType } from '../../types'
-import { Link } from 'react-router-dom'
 
 const img = "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/397167/01/sv01/fnd/IND/fmt/png/RBD-Game-Low-x-HARRDY-SANDHU-Men's-Sneakers"
 
